@@ -1,6 +1,8 @@
 # hw6
 Домашняя работа 13.04.
 
+# Google NGrams
+
 ### 1.  
 
 ![Схема1](https://raw.githubusercontent.com/IrinaLukenchuk/hw6/master/1.png "Схема1") 
